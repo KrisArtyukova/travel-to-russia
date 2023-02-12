@@ -1,0 +1,8 @@
+.lead {
+  display: grid;
+  max-width: 984px;
+  max-height: 1005px;
+  margin-left: 148px;
+  margin-right: 148px;
+  margin-bottom: 92px;
+}
