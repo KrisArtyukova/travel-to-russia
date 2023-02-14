@@ -12,3 +12,9 @@
   opacity: 0.8;
   transition: all ease-in-out 0.2s;
 }
+
+@media screen and (max-width: 1024px) {
+  .cover__overlay {
+    width: 1024px;
+}
+}

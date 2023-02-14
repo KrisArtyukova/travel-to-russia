@@ -6,3 +6,10 @@
   font-style: normal;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead {
+    width: 1024px;
+    margin: 0 auto;
+}
+}

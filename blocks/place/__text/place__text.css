@@ -1,4 +1,12 @@
 .place__text {
+  display: grid;
+  gap: 26px;
   width: 484px;
+}
 
+@media screen and (max-width: 1024px) {
+  .place__text {
+    width: 456px;
+
+}
 }

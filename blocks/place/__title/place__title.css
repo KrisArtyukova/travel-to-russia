@@ -1,11 +1,16 @@
 .place__title {
   display: flex;
   align-self: end;
-  width: 460px;
-  height: auto;
+  width: 100%;
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
   margin: 0;
   padding: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .place__title {
+
+}
 }

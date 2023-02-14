@@ -1,8 +1,13 @@
 .lead {
   display: grid;
-  max-width: 984px;
-  max-height: 1005px;
-  margin-left: 148px;
-  margin-right: 148px;
+  grid-template-columns: 1fr;
+  width: 984px;
+  margin: 0 auto;
   margin-bottom: 92px;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead {
+    width: 928px;
+}
 }
