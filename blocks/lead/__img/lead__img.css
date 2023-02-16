@@ -5,6 +5,18 @@
 @media screen and (max-width: 1024px) {
   .lead__img {
     width: 928px;
+  }
 }
+
+@media screen and (max-width: 768px) {
+  .lead__img {
+    width: 768px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__img {
+    width: 320px;
+  }
 }
 

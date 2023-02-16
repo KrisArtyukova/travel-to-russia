@@ -1,13 +1,31 @@
 .places {
   display: grid;
   gap: 80px;
-  width: calc(100% - 148px - 148px);
-  margin: 0 auto;
+  width: calc(100% - 48px - 48px);
   margin-bottom: 92px;
 }
 
 @media screen and (max-width: 1024px) {
   .places {
-    width: 928px
+    width: 928px;
+    margin-bottom: 101px;
+  }
 }
+
+@media screen and (max-width: 768px) {
+  .places {
+    width: 720px;
+    margin-bottom: 90px;
+    gap: 73px;
+
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places {
+    width: 320px;
+    margin-bottom: 66px;
+    gap: 50px;
+    margin-right: 0;
+  }
 }
