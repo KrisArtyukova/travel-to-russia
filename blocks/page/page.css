@@ -2,7 +2,7 @@
   width: 1280px;
   background-color: #2A2C2F;
   color: #fff;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', 'Roboto', sans-serif;
   font-style: normal;
   margin: 0 auto;
 }
@@ -10,7 +10,6 @@
 @media screen and (max-width: 1024px) {
   .page {
     width: 1024px;
-    margin: 0 auto;
   }
 }
 

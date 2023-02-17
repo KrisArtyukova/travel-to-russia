@@ -1,0 +1,9 @@
+.header__lang-link_disabled {
+  text-decoration: none;
+  color: #fff;
+}
+
+.header__lang-link_disabled:hover {
+  opacity: 0.8;
+  transition: all ease-in-out 0.2s;
+}
