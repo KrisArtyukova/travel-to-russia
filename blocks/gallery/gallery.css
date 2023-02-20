@@ -11,7 +11,7 @@
   .gallery {
     grid-template-columns: repeat(3, 1fr);
     width: 928px;
-    margin-bottom: 83px;
+    margin-bottom: 88px;
   }
 }
 
@@ -19,7 +19,7 @@
   .gallery {
     grid-template-columns: repeat(2, 1fr);
     width: 720px;
-    margin-bottom: 88px;
+    margin-bottom: 90px;
   }
 }
 

@@ -7,14 +7,14 @@
 
 @media screen and (max-width: 1024px) {
   .places {
-    width: 928px;
-    margin-bottom: 101px;
+    width: 1024px;
+    margin-bottom: 93px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .places {
-    width: 720px;
+    width: 768px;
     margin-bottom: 90px;
     gap: 73px;
 
@@ -24,8 +24,8 @@
 @media screen and (max-width: 320px) {
   .places {
     width: 320px;
-    margin-bottom: 39px;
-    gap: 50px;
+    margin-bottom: 15px;
+    gap: 74px;
     margin-right: 0;
   }
 }

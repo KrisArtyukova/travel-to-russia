@@ -1,20 +1,18 @@
 .cover {
-  display: grid;
-  background-image: url("../../images/cover-trains.jpg");
   width: 1184px;
   height: 740px;
-  margin-bottom: 92px;
+  background-image: url(../../images/cover-trains.jpg);
   background-size: cover;
-  margin-left: 48px;
-  margin-right: 48px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;
+  margin-bottom: 90px;
 }
 
 @media screen and (max-width: 1024px) {
   .cover {
     width: 1024px;
     height: 640px;
-    margin: 0 auto;
-    margin-bottom: 92px;
   }
 }
 
@@ -22,7 +20,6 @@
   .cover {
     width: 768px;
     height: 480px;
-    margin-bottom: 88px;
   }
 }
 
@@ -30,6 +27,7 @@
   .cover {
     width: 320px;
     height: 200px;
-    margin-bottom: 64px;
+    margin-bottom: 70px;
+
   }
 }
