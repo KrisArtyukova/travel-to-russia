@@ -1,14 +1,18 @@
 # Проект: Путешествие по России
+##### Проектная работа №3 на курсе Яндекс Практикум по Веб-разработке
 
+## Технологии
+![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javaScript&logoColor=black)
+![BEM](https://img.shields.io/badge/-BEM-yellowgreen)
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+1. Проектная работа по итогам прохождения первых трех спринтов на курсе по Веб-разработке.
 
-* [Ссылка на работу](https://krisartyukova.github.io/travel-to-russia/)
+2. В работе применены инструменты адаптивной и "резиновой" верстки: использованы flex и grid, медиа запросы,
+относительные единицы. При разработке проекта применена технология БЭМ.
 
-...
-__Описание:__   Учебный проект. Функционал проекта включет в себя отображение информации из брифа, есть возможность перехода на сторонние ресурсы. В проекте использованы HTML, CSS, FlexBox, Layout Grid,
-___
-__Планы по доработке:__
-* Добавить анимацию.
-___
+3. Проект будет доработан в части устранения ошибок и внесения корректировок в проект.
 
+## Ссылки проекта
+Ссылка на проект для просмотра - 
